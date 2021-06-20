@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/janamian/Documents/workstation_3x/FPRIME_CODE_2021_05_03_63_fix_477/fprime/Svc/CmdDispatcher/test/ut/Handcode'
+let g:netrw_dirhist_3='/Users/janamian/Documents/workstation_3x/OWLS_DOCKER_REPO/dummy/.owls'
+let g:netrw_dirhist_2='/Users/janamian/Documents/workstation_3x/OWLS_DOCKER_REPO/dummy'
+let g:netrw_dirhist_1='/Users/janamian/Documents/workstation_3x/OWLS_DOCKER_REPO/dummy/.owls'
+let g:netrw_dirhist_0='/Users/janamian/Documents/workstation_3x/OWLS_DOCKER_REPO/dummy/owls_dev_wks/owls-bus-fprime/.git'
+let g:netrw_dirhist_9='/Users/janamian/Documents/workstation_3x/FPRIME_CODE_2021_04_14_34'
+let g:netrw_dirhist_8='/Users/janamian/.vim'
+let g:netrw_dirhist_7='/Users/janamian/Documents/workstation_3x/owls_docker/owls-bus-fprime/fprime/Fw/Python/.eggs/pytest_runner-5.3.0-py3.8.egg/EGG-INFO'
+let g:netrw_dirhist_6='/Users/janamian/Documents/workstation_3x/owls_docker/owls-bus-fprime/fprime/Fw/Python/.eggs/pytest_runner-5.3.0-py3.8.egg'
+let g:netrw_dirhist_5='/Users/janamian/Documents/workstation_3x/owls_docker/owls-bus-fprime/fprime/Fw/Python/.eggs'

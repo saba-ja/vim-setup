@@ -120,3 +120,5 @@ function! Format()
   endif
 endfunction
 
+set relativenumber number
+set paste
